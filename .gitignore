@@ -1,0 +1,12 @@
+# Compiled Java classes
+*.class
+
+# macOS metadata
+.DS_Store
+
+# Runtime data file
+students.txt
+
+# Archive
+*.zip
+
